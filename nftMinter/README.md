@@ -1,5 +1,8 @@
 # NFT Minter
+This program uses React as our frontend framework that connects Metamask to your frontend project, call smart contract methods from your frontend, and sign transactions using Metamask.
 
+
+## Setting up
 Input the contractAddress obtained from mySpecialAsset into nftMinter/src/utils/interect.js. 
 
 ```
