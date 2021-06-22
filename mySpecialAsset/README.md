@@ -1,4 +1,4 @@
-# NFT Minter
+# My Special Asset
 This program creates an ERC721 smart contract to mint.
 
 
