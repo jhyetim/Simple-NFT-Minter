@@ -13,8 +13,4 @@ REACT_APP_PINATA_KEY = cb8239994fa9d8825f7f
 REACT_APP_PINATA_SECRET = 4613a3af87a118327147a4c7d367f26c7625254410107c2781ce0c39da7845af
 ```
 
-Once addresses and keys are updated, run the command ``http://localhost:3000/``
-```
-npm start
-```
-to start localhost:3000.
+Once addresses and keys are updated, run the command `npm start` to start localhost:3000.
